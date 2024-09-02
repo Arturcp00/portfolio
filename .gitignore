@@ -41,3 +41,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Ignore everything
+/*
+
+# Unignore the web folder
+!web/
+!web/**
